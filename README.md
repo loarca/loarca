@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/loarca?label=Follow&style=social)](https://github.com/loarca)
 
-###### ***Mid-Level to Senior Backend Developer*** | ***Game Developer Enthusiast***
+###### ***Mid-Level to Senior Backend Developer*** | ***Software Consultant*** | ***Game Developer Enthusiast***
 
 * **twitter:** [loarca_irl](https://twitter.com/loarca_irl)
 * **instagram:** [alej_loarca](https://www.instagram.com/alej_loarca)
