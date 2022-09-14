@@ -2,12 +2,16 @@
 
 [![Github](https://img.shields.io/github/followers/loarca?label=Follow&style=social)](https://github.com/loarca)
 
-###### ***Mid-Level to Senior Backend Developer*** | ***Software Consultant*** | ***Game Developer Enthusiast***
+###### ***Mid-Level to Senior Backend Developer*** | ***DevOps Engineer*** | ***k8s*** | ***Software Consultant*** | ***Game Developer Enthusiast***
+###### ***🦀 Rustacean 🦀***
 
-* **twitter:** [loarca_irl](https://twitter.com/loarca_irl)
-* **instagram:** [alej_loarca](https://www.instagram.com/alej_loarca)
-<!-- * **ᵛᵉʳʸ fancy portfolio:** [My stuff](https://loarca.dev) (go check it out!)
-* **blog:** [Occasional posts about whatever tech related](https://blog.loarca.dev) -->
+
+* **blog:** [loarca's tech blog](https://blog.loarca.dev)
+* **website:** [links](https://loarca.dev)
+* **linkedin:** [alejandroloarca](https://www.linkedin.com/in/alejandroloarca)
+* **twitter:** [@loarca_irl](https://twitter.com/loarca_irl)
+* **instagram:** [@alej_loarca](https://www.instagram.com/alej_loarca)
+<!-- * **ᵛᵉʳʸ fancy portfolio:** [My stuff](https://loarca.dev) (go check it out!) -->
 
 <a href="https://github.com/loarca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loarca&show_icons=true&theme=material-palenight&count_private=true" alt="loarca's github stats" />
